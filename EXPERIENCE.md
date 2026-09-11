@@ -27,7 +27,7 @@ Designed, built, and operate a self-hosted AI infrastructure and automation plat
 
 ## Projects
 
-- [`ai-infrastructure-architecture`](https://github.com/) — full architecture case study, including the security hardening and automation write-ups
+- [`ai-infrastructure-architecture`](https://github.com/zamahndlela) — full architecture case study, including the security hardening and automation write-ups
 
 ---
 Figures and technical details here describe real, deployed work; live credentials, IPs, and internal configuration are intentionally omitted (see individual case studies).
