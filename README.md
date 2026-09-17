@@ -43,3 +43,5 @@ The business needed one platform to handle three very different workloads — cl
 - Add centralized log aggregation across the stack rather than per-VM log review.
 
 ---
+
+*Diagrams and configuration values in this repository are sanitized for public sharing*
